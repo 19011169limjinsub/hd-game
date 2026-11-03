@@ -1,0 +1,6 @@
+{
+  "name": "Red Dodge 60s",
+  "description": "F1 그랑프리 서킷 기반 모바일 2D 아케이드 레이싱. 60초 동안 빨간색 경쟁 머신을 피하고 최대 추월 스코어를 달성하세요.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
